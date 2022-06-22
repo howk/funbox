@@ -1,3 +1,6 @@
+
+# [Описание задания](https://maxkarpov.ru/funbox/qt-html-css-js.pdf)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
